@@ -9,5 +9,7 @@ package test;
  * @author educu
  */
 public class Main {
-    
+    public static void main(String[] args) {
+        System.out.println("Esto es para comprobar inicio ");
+    }
 }
